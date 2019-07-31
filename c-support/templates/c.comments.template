@@ -53,11 +53,9 @@
  * Version: 1.0: |FILENAME| |DATE| $
  *
  * Authors:
- *   |AUTHOR| |EMAIL|
+ *   |AUTHOR| <|EMAIL|>
  */
-
 <CURSOR>
-
 == Comments.file description header == map:cfdh, shortcut:h, start, noindent ==
 /**
  * (C) 2007-2019 Alibaba Group Holding Limited
@@ -69,11 +67,9 @@
  * Version: 1.0: |FILENAME| |DATE| $
  *
  * Authors:
- *   |AUTHOR| |EMAIL|
+ *   |AUTHOR| <|EMAIL|>
  */
-
 <CURSOR>
-
 == ENDTEMPLATE ==
 
 == LIST: comments_c_sections == hash ==

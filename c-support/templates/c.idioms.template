@@ -46,9 +46,9 @@ union |?UNION_NAME| {<CURSOR>
 
 typedef union |UNION_NAME| |UNION_NAME:c|;
 == Idioms.scanf == map:isc, shortcut:s, insert  ==
-scanf ( "<CURSOR>", & );
+scanf("<CURSOR>", &);
 == Idioms.printf == map:ipr, shortcut:p, insert  ==
-printf ( "<CURSOR>\n" );
+printf("<CURSOR>\n");
 == Idioms.calloc == map:ica, shortcut:c  ==
 |?POINTER| = calloc ( (size_t)(<CURSOR><+COUNT+>), sizeof(<+TYPE+>) );
 if (|POINTER| == NULL) {
